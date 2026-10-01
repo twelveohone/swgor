@@ -2,7 +2,7 @@
 
 Download [OuterRim-4K-UI.zip](https://github.com/twelveohone/swgor/releases/latest/download/OuterRim-4K-UI.zip).
 
-This is the Outer Rim interface scaled for a 3840×2160 screen. It belongs in an Outer Rim install that uses `SwgClient_r.exe`. It is not for SWG Uprising or any other client.
+This is the Outer Rim interface scaled for a 3840×2160 screen. It belongs in an Outer Rim install that uses `SwgClient_r.exe`. This version will only work with Outer Rim's UI
 
 Quit the game before you copy these in.
 
