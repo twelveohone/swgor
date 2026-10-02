@@ -65,7 +65,7 @@ python tools\make_share_package.py       build OuterRim-4K-UI-Installer.zip
 
 - The survey map's concentration numbers stay at their current size. The client has no larger bold font it can draw.
 - Group frames follow the style set in the launcher at install time. Change it, then run Install again.
-
+- I have only tested this with a brand new crafter. I will update it as I find and fix any other windwos/ui elements that need fixing. Feel free to message me with anything you find and I will address it.
 ## Disclaimer
 
 Fan-made and not affiliated with The Outer Rim. Client-side UI only: no automation, no memory editing, no server interaction.
