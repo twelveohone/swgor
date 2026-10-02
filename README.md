@@ -65,7 +65,7 @@ python tools\make_share_package.py       build OuterRim-4K-UI-Installer.zip
 
 - The survey map's concentration numbers stay at their current size. The client has no larger bold font it can draw.
 - Group frames follow the style set in the launcher at install time. Change it, then run Install again.
- **Still a work in progress.** So far this has only been tested on a fresh Artisan, so there are almost certainly windows and UI elements I haven't run into yet that still need adjusting. I'm continuing to work on it. If you spot anything that looks off (overlapping text, cut-off labels, windows that are too small or too big), message me with a screenshot and where you found it, and I'll get it fixed in the next update.
+-  **Still a work in progress.** So far this has only been tested on a fresh Artisan, so there are almost certainly windows and UI elements I haven't run into yet that still need adjusting. I'm continuing to work on it. If you spot anything that looks off (overlapping text, cut-off labels, windows that are too small or too big), message me with a screenshot and where you found it, and I'll get it fixed in the next update.
   
 ## Disclaimer
 
