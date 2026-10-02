@@ -9,7 +9,6 @@ It builds the 4K interface from your own Outer Rim install, so it always matches
 | File | What it is |
 | --- | --- |
 | `OuterRim-4K-UI-Installer.zip` | Recommended. Builds the UI from your install. No Python needed, it carries its own. |
-| `OuterRim-4K-UI.zip` | Ready-made pack. Unzip and play. May go stale after an Outer Rim UI update. |
 
 ## Install
 
